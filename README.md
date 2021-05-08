@@ -13,8 +13,8 @@
 <br>
 
 <p align="center">
-    <img alt="license-badge" src="https://img.shields.io/github/license/Oppskrift/oppskrift_api_sf?style=for-the-badge">
-    <img alt="version-badge" src="https://img.shields.io/github/package-json/v/Oppskrift/oppskrift_api_sf?style=for-the-badge">
+    <!-- TODO : choose a licence <img alt="license-badge" src="https://img.shields.io/github/license/Oppskrift/oppskrift_api_sf?style=for-the-badge"> -->
+    <!-- TODO : this is for package.json. shiels.io provide a badge for packagist but this is repo is not meant for packagist<img alt="version-badge" src="https://img.shields.io/github/package-json/v/Oppskrift/oppskrift_api_sf?style=for-the-badge"> -->
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 ## Warning :warning:
 
-At first we intended to create a backend using Actix (Rust). Adding to implementing ActivityPub which was new to us, the learning curve was burdening and threatening the progression of the project. To setup the project more quickly we decided to temporarily use Symfony. At some point we intend to switch back to Rust.
+:warning: At first we intended to create a backend using Actix (Rust). Adding to implementing ActivityPub which was new to us, the learning curve was burdening and threatening the progression of the project. To setup the project more quickly we decided to temporarily use Symfony. At some point we intend to switch back to Rust.
 
 ## Features
 
