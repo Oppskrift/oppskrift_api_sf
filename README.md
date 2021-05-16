@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-    <!-- TODO : choose a licence <img alt="license-badge" src="https://img.shields.io/github/license/Oppskrift/oppskrift_api_sf?style=for-the-badge"> -->
+    <img alt="license-badge" src="https://img.shields.io/github/license/Oppskrift/oppskrift_api_sf?style=for-the-badge">
     <!-- TODO : this is for package.json. shiels.io provide a badge for packagist but this is repo is not meant for packagist<img alt="version-badge" src="https://img.shields.io/github/package-json/v/Oppskrift/oppskrift_api_sf?style=for-the-badge"> -->
 </p>
 
